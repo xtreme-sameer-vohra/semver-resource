@@ -167,5 +167,5 @@ So, with `bump` as `minor` and `pre` as `rc`, the following changes will be
 applied:
 
 * `0.1.0` -> `0.2.0-rc.1`
-* `0.1.0-rc.1` -> `0.1.0-rc.2`
-* `0.1.0-beta.4` -> `0.1.0-rc.1`
+* `0.1.0-rc.1` -> `0.2.0-rc.2`
+* `0.1.0-beta.4` -> `0.2.0-rc.1`
